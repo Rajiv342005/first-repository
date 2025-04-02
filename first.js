@@ -12,3 +12,6 @@ const account2 = {
     Gender:"Male",
     City:"Bangalore"
 }
+
+const bug = "Their is some bug in code";
+console.log("Bug is fixed");
