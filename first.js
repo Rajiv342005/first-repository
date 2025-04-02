@@ -5,3 +5,10 @@ const account1 = {
     Gender:"Male",
     City:"Surat"
 }
+const account2 = {
+    Name:"sohan Tripathi",
+    Age:24,
+    AccBal:40000,
+    Gender:"Male",
+    City:"Bangalore"
+}
